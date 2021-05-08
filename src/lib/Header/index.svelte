@@ -3,6 +3,7 @@
 	import logo from './svelte-logo.svg';
 </script>
 
+
 <header>
 	<div class="corner">
 		<a href="https://kit.svelte.dev">
@@ -30,6 +31,9 @@
 </header>
 
 <style>
+
+
+
 	header {
 		display: flex;
 		justify-content: space-between;

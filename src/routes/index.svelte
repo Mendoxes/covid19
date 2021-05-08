@@ -8,10 +8,18 @@
 
 
 <svelte:head>
-	<title>Home</title>
+	<title>Covid 19</title>
 
 </svelte:head>
+<div class="section header">
 
+<div class="container">
+
+<h1>Covid 19 US</h1>
+
+</div>
+
+</div>
 <CovidStats />
 <CovidChart />
 <TableContainer />

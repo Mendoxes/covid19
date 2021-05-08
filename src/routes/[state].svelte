@@ -15,7 +15,20 @@
     export let state;
   </script>
   
-  params: {state} <br />
+  <!-- params: {state} <br /> -->
+
+  <svelte:head>
+    <title>Covid 19</title>
+  
+  </svelte:head>
+  <div class="section header">
+  
+  <div class="container">
+  
+    <h1>Covid 19 - {state}</h1>
+  
+  </div></div>
+  
 
   <CovidStats />
 <CovidChart />
