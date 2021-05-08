@@ -1,6 +1,7 @@
 <script>
 	import Header from '$lib/Header/index.svelte';
 	import '../app.css';
+	import "bulma/css/bulma.css"
 </script>
 
 <Header />
